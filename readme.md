@@ -4,7 +4,7 @@
 
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
 
@@ -33,12 +33,9 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)    
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
-## Projetos
-
-[![Challenge 2024](https://github-readme-stats.vercel.app/api/pin/?username=peguidotte&repo=E-PitStop&theme=vue)](https://github.com/peguidotte/WasteWise)
-
-[![1 GS 2024](https://github-readme-stats.vercel.app/api/pin/?username=peguidotte&repo=WasteWise&theme=vue)](https://github.com/peguidotte/WasteWise)
+## Sobre mim 🙋‍♂️
+Sou apaixonado por futebol, gosto de jogar video game e de estudar programação.
+Entrei nesse mundo recentemente e estou me empenhando para conseguir minhas primeiras oportunidades de trabalho, visando também um crescimento pessoal.
 
 ## Contato 👤
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-guidotte/)
