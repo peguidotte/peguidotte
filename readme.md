@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, sou o Pedro Guidotte 👋
+# Olá, eu sou o Pedro 👋
 
 </div>
 
